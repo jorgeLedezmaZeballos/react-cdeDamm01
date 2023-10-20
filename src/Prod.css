@@ -1,0 +1,9 @@
+table{
+    border-collapse:collapse;
+}
+
+td, th{
+  border: 0.5px solid salmon;
+  border-style: solid;
+  padding:8px;
+}
