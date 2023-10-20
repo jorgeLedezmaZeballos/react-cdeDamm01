@@ -1,0 +1,31 @@
+.tarjeta{
+    border: 1px solid;
+    border-radius: 10px;
+    width: 206px;
+    height: 135px;
+    background-color:Orange;
+    text-align:center;
+    position: relative;
+}
+.tarjeta h2{
+    border-bottom:2px solid brown;
+    font-weight:bold;
+    font-size:24px;
+}
+
+.boton-x{
+    font-weight:bold;
+    font-family: Arial;
+    font-size: 18px;
+    background-color: transparent;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1;
+    padding:0;
+    margin: 5px;
+    outline: none;
+    border:none;
+    box-shadow: none;
+    transition: none;
+}
